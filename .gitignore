@@ -1,0 +1,13 @@
+*.pyc
+__pycache__/
+*.pkl
+*.bin
+*.tlog
+data/raw/
+models/rag_index/
+.env
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
